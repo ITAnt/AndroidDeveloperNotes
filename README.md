@@ -31,7 +31,7 @@ Activity共享元素切换动画
 Android Transition animations explanation with examples.
 
 4. [frogermcs/InstaMaterial](https://github.com/frogermcs/InstaMaterial)<br/>
-Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)
+Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)<br/>
 [部分用法-中文译文](http://www.oschina.net/p/materialviewpager?fromerr=QI0SvslG)
 
 5. [florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)<br/>
@@ -53,6 +53,14 @@ Github安卓客户端
 
 10. [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)<br/>
 AppBarLayout的流畅版本
+
+## 列表相关 ##
+
+1. [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)<br/>
+RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，和ViewPager、DrawerLayout结合使用，和任何下拉刷新框架结合使用。
+
+2. [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)<br/>
+带侧滑菜单的ListView
 
 [nekocode/CameraFilter](https://github.com/nekocode/CameraFilter)<br/>
 相机滤镜
