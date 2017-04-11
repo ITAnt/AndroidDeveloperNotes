@@ -49,6 +49,11 @@ Implementation of Instagram with Material Design (originally based on Emmanuel P
 8. [pockethub/PocketHub](https://github.com/pockethub/PocketHub)<br/>
 Github安卓客户端
 
+9. [Android的材料设计兼容库介绍](http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html)<br/>
+
+10. [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)<br/>
+AppBarLayout的流畅版本
+
 [nekocode/CameraFilter](https://github.com/nekocode/CameraFilter)<br/>
 相机滤镜
 
