@@ -62,6 +62,24 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 2. [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)<br/>
 带侧滑菜单的ListView
 
+## 科学上网 ##
+下面这些工具可以方便我们获取英文知识
+### PC ###
+* [赛风](http://s3.amazonaws.com/57wj-4j1q-wa7e/zh/index.html)
+* [蓝灯](https://github.com/getlantern/lantern)
+* [影梭](https://www.shadowshocks.com/)
+* [天行](http://www.xskywalker.org/)
+### 移动 ###
+* [ZERO VPN](http://z.tntapp.net/)
+* [赛风](http://s3.amazonaws.com/57wj-4j1q-wa7e/zh/index.html)
+* [蓝灯](https://github.com/getlantern/lantern)
+* [X浏览器](http://www.xbext.com/)
+
+
+
+
+
+
 [nekocode/CameraFilter](https://github.com/nekocode/CameraFilter)<br/>
 相机滤镜
 
