@@ -15,6 +15,9 @@
 可选择超大图片
 
 ## Material相关 ##
+
+* [最新的Material Design资料当然是看官网了](https://developer.android.com/training/material/index.html)
+
 1. [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)<br/>
 Demos the new Android Design library. This is not an exhaustive sample, but shows some of the important features in the Design library:
 * Collapsing Toolbar
@@ -54,6 +57,10 @@ Github安卓客户端
 10. [henrytao-me/smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)<br/>
 AppBarLayout的流畅版本
 
+11. [ZieIony/Carbon](https://github.com/ZieIony/Carbon)<br/>
+Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.<br/>
+Material Design在低版本手机上的实现
+
 ## 列表相关 ##
 
 1. [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)<br/>
@@ -61,6 +68,14 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 
 2. [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)<br/>
 带侧滑菜单的ListView
+
+
+## 系统学习 ##
+### 应用层 ###
+1. [commonsguy/cw-omnibus](https://github.com/commonsguy/cw-omnibus)
+书本 _The Busy Coder's Guide to Android Development_的源代码综合版 http://commonsware.com/Android
+
+### Framework ###
 
 ## 科学上网 ##
 下面这些工具可以方便我们获取英文知识
