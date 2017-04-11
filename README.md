@@ -69,10 +69,16 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 2. [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)<br/>
 带侧滑菜单的ListView
 
+## 网络请求 ##
+1. [square/retrofit](https://github.com/square/retrofit)<br/>
+Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
+
+2. [square/okhttp](https://github.com/square/okhttp)<br/>
+An HTTP+HTTP/2 client for Android and Java applications. http://square.github.io/okhttp/
 
 ## 系统学习 ##
 ### 应用层 ###
-1. [commonsguy/cw-omnibus](https://github.com/commonsguy/cw-omnibus)
+1. [commonsguy/cw-omnibus](https://github.com/commonsguy/cw-omnibus)<br/>
 书本 _The Busy Coder's Guide to Android Development_的源代码综合版 http://commonsware.com/Android
 
 ### Framework ###
@@ -90,8 +96,9 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 * [蓝灯](https://github.com/getlantern/lantern)
 * [X浏览器](http://www.xbext.com/)
 
-
-
+### 其他 ###
+* [下载GooglePlay应用的方法](https://www.zhihu.com/question/22382577)<br/>
+* [Google镜像1](https://g.zmirrordemo.com/)
 
 
 
