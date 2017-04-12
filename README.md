@@ -3,7 +3,57 @@
 
 收录了一些实用而美观的开发框架，优秀的博文，好用的开发工具等。
 
-## 图片选择 ##
+### 对话框 ###
+
+1. [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)<br/>
+Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
+
+### 列表相关 ###
+
+1. [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)<br/>
+漂亮的侧滑菜单
+
+2. [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)<br/>
+RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，和ViewPager、DrawerLayout结合使用，和任何下拉刷新框架结合使用。
+
+3. [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)<br/>
+带侧滑菜单的ListView。[demo地址](https://github.com/maurycyw/StaggeredGridViewDemo)
+
+4. [maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)<br/>
+瀑布流布局，可用于图片浏览。
+
+### 导航相关 ###
+
+1. [LuckyJayce/ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator)<br/>
+Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab，引导页，无限轮播banner等效果，高度自定义tab和特效
+
+### 进度条 ###
+1. [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar)<br/>
+The NumberProgressBar is a bar, slim and sexy (every man wants! ).
+
+2. [AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)<br/>
+漂亮的SeekBar
+
+### 按钮相关 ###
+1. [Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)<br/>
+仿ios风格开关。A widget you can slide it to open or close something
+
+### 拖动刷新 ###
+
+1. [liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)<br/>
+下拉刷新项目的替代方案（已停止更新），继承于ViewGroup可以包含任何View。
+
+2. [Frank-Zhu/PullZoomView](https://github.com/Frank-Zhu/PullZoomView)<br/>
+An Android custom ListView and ScrollView with pull to zoom-in.
+
+### 动画效果 ###
+
+1. [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+强大的动画效果库，几乎包含所有动画效果。
+
+
+
+### 图片选择 ###
 
 1. [lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)<br/>
 仿微信实现多图选择。支持单选和多选两种模式
@@ -13,6 +63,15 @@
 
 3. [martin90s/ImagePicker](https://github.com/martin90s/ImagePicker)<br/>
 可选择超大图片
+
+### 网络请求 ###
+
+1. [square/retrofit](https://github.com/square/retrofit)<br/>
+Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
+
+2. [square/okhttp](https://github.com/square/okhttp)<br/>
+An HTTP+HTTP/2 client for Android and Java applications. http://square.github.io/okhttp/
+
 
 ## Material相关 ##
 
@@ -60,21 +119,6 @@ AppBarLayout的流畅版本
 11. [ZieIony/Carbon](https://github.com/ZieIony/Carbon)<br/>
 Material Design implementation for Android 4.0+. Shadows, ripples, vectors, fonts, animations, widgets, rounded corners and more.<br/>
 Material Design在低版本手机上的实现
-
-## 列表相关 ##
-
-1. [yanzhenjie/SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView)<br/>
-RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，和ViewPager、DrawerLayout结合使用，和任何下拉刷新框架结合使用。
-
-2. [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)<br/>
-带侧滑菜单的ListView
-
-## 网络请求 ##
-1. [square/retrofit](https://github.com/square/retrofit)<br/>
-Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
-
-2. [square/okhttp](https://github.com/square/okhttp)<br/>
-An HTTP+HTTP/2 client for Android and Java applications. http://square.github.io/okhttp/
 
 ## 系统学习 ##
 ### 应用层 ###
