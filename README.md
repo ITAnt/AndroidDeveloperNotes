@@ -113,6 +113,12 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 
 ## 功能相关 ##
 
+### 相机相关 ###
+
+* [nekocode/CameraFilter](https://github.com/nekocode/CameraFilter)<br/>
+相机滤镜
+
+
 ### 条形码 ###
 * [zxing/zxing](https://github.com/zxing/zxing)<br/>
 zxing官方项目。Official ZXing ("Zebra Crossing") project home
@@ -149,11 +155,11 @@ An HTTP+HTTP/2 client for Android and Java applications. http://square.github.io
 
 * [chrisbanes/cheesesquare](https://github.com/chrisbanes/cheesesquare)<br/>
 Demos the new Android Design library. This is not an exhaustive sample, but shows some of the important features in the Design library:
-* Collapsing Toolbar
-* FloatingActionButton
-* View anchoring
-* NavigationView
-* Snackbar
+Collapsing Toolbar<br/>
+FloatingActionButton<br/>
+View anchoring<br/>
+NavigationView<br/>
+Snackbar
 
 * [saulmm/CoordinatorExamples](https://github.com/saulmm/CoordinatorExamples)<br/>
 This repository host the source code shown in examples in the article [Mastering Coordinator Layout], there you can find different usages of the CoordinatorLayout, like anchoring views, flexible spaces, swipe to dismiss among other useful tips.
@@ -174,9 +180,9 @@ Implementation of Instagram with Material Design (originally based on Emmanuel P
 
 * [rubensousa/ViewPagerCards](https://github.com/rubensousa/ViewPagerCards)<br/>
 一个简单的实现卡片式ViewPager效果的DEMO。该项目支持“碎片”和标准视图，可以用来：
-* 展示高级功能
-* 一个App应用介绍页
-* 图像的小画廊
+展示高级功能<br/>
+一个App应用介绍页<br/>
+图像的小画廊
 
 * [pockethub/PocketHub](https://github.com/pockethub/PocketHub)<br/>
 Github安卓客户端
@@ -214,9 +220,5 @@ Material Design在低版本手机上的实现
 * [下载GooglePlay应用的方法](https://www.zhihu.com/question/22382577)<br/>
 * [Google镜像1](https://g.zmirrordemo.com/)
 
-
-
-[nekocode/CameraFilter](https://github.com/nekocode/CameraFilter)<br/>
-相机滤镜
 
 
