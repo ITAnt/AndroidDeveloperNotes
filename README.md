@@ -31,6 +31,9 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 
 ### 界面导航 ###
 
+* [youth5201314/banner](https://github.com/youth5201314/banner)<br/>
+Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
+
 * [saiwu-bigkoo/Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
 简单方便的banner导航，有多种特效。Simple and convenient banner, loop viewpager with 3D effects
 
@@ -94,6 +97,21 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 
 ### 图片相关 ###
 
+* [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
+圆形头像A fast ImageView that supports rounded corners, ovals, and circles.
+
+* [hdodenhof/CircleImageView]（https://github.com/hdodenhof/CircleImageView）<br/>
+经典的圆形头像
+
+* [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)<br/>
+经典的头像加载框架
+
+* [xiaopansky/sketch](https://github.com/xiaopansky/sketch)<br/>
+Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势缩放以及分块显示超大图片。
+
+* [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable)<br/>
+在安卓上显示gif图片。Views and Drawable for displaying animated GIFs on Android
+
 * [lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)<br/>
 仿微信实现多图选择。支持单选和多选两种模式
 
@@ -103,11 +121,6 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 * [martin90s/ImagePicker](https://github.com/martin90s/ImagePicker)<br/>
 可选择超大图片
 
-* [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
-圆形头像A fast ImageView that supports rounded corners, ovals, and circles.
-
-* [hdodenhof/CircleImageView]（https://github.com/hdodenhof/CircleImageView）<br/>
-经典的圆形头像
 
 
 
@@ -137,6 +150,13 @@ Rx实现的权限申请(推荐使用)This library allows the usage of RxJava wit
 权限申请
 
 ## 框架级别 ##
+
+* [ReactiveX/RxAndroid](https://github.com/ReactiveX/RxAndroid)<br/>
+观察者模式思想的框架。RxJava bindings for Android
+
+* [greenrobot/EventBus](https://github.com/greenrobot/EventBus)<br/>
+不同界面、线程之间传递数据。Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. http://greenrobot.org/eventbus/
+
 * [koush/AndroidAsync](https://github.com/koush/AndroidAsync)<br/>
 安卓异步网络请求。Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
 
