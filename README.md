@@ -324,6 +324,9 @@ JSON在线解析
 * [旧版本Virtualbox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3)<br/>
 旧版本Virtualbox下载
 
+* [阿里巴巴矢量图](http://www.iconfont.cn/)<br/>
+高清png图标下载
+
 * [Gradle Distributions](http://services.gradle.org/distributions/)<br/>
 Gradle各个发布版本，直接下载，然后到C盘User目录里的.gradle目录里替换掉，AndroidStudio就不会卡死了。
 
