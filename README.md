@@ -29,6 +29,35 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 * [maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)<br/>
 瀑布流布局，可用于图片浏览。
 
+* [nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)<br/>
+列表动画
+
+### 图片相关 ###
+
+* [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
+圆形头像A fast ImageView that supports rounded corners, ovals, and circles.
+
+* [hdodenhof/CircleImageView]（https://github.com/hdodenhof/CircleImageView）<br/>
+经典的圆形头像
+
+* [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)<br/>
+经典的头像加载框架
+
+* [xiaopansky/sketch](https://github.com/xiaopansky/sketch)<br/>
+Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势缩放以及分块显示超大图片。
+
+* [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable)<br/>
+在安卓上显示gif图片。Views and Drawable for displaying animated GIFs on Android
+
+* [lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)<br/>
+仿微信实现多图选择。支持单选和多选两种模式
+
+* [donglua/PhotoPicker](https://github.com/donglua/PhotoPicker)<br/>
+同样是仿微信图片选择
+
+* [martin90s/ImagePicker](https://github.com/martin90s/ImagePicker)<br/>
+可选择超大图片
+
 ### 界面导航 ###
 
 * [youth5201314/banner](https://github.com/youth5201314/banner)<br/>
@@ -45,6 +74,9 @@ Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab�
 
 * [roughike/BottomBar](https://github.com/roughike/BottomBar)<br/>
 Material风格的底部导航
+
+* [astuetz/PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)<br/>
+导航tab
 
 ### 进度条 ###
 
@@ -82,10 +114,31 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 * [lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)<br/>
 很漂亮的图表，线状柱状等包含几乎所有类型图表。Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
 
+### 视频播放 ###
+
+* [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)<br/>
+B站开源视频播放器
+
+* [VLC for Android](http://www.videolan.org/vlc/download-android.html)<br/>
+免费开源的跨平台媒体播放器
+
+* [vitamio](https://github.com/yixia/VitamioBundle)<br/>
+Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全面支持硬件解码与 GPU 渲染。<br/>
+[官网](https://www.vitamio.org/)
+
+* [百度云音视频](https://cloud.baidu.com/doc/MCT/API.html#.15.7A.9A.C8.BB.93.26.74.19.77.3F.0F.BD.F5.81.EE)
+由百度提供SDK
+
+* 缩略图获取<br/>
+[参考链接一](http://www.2cto.com/kf/201210/161238.html)<br/>
+[参考链接二](http://www.jb51.net/article/38376.htm)<br/>
+[参考链接三](http://www.linuxidc.com/Linux/2014-08/104986.htm)<br/>
+
 ### 动画效果 ###
 
 * [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)<br/>
 强大的动画效果库，几乎包含所有动画效果。
+
 
 ### 自定义 ###
 
@@ -95,33 +148,8 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 * [HelloVass/SnowingView](https://github.com/HelloVass/SnowingView)<br/>
 雪花飘落
 
-### 图片相关 ###
-
-* [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
-圆形头像A fast ImageView that supports rounded corners, ovals, and circles.
-
-* [hdodenhof/CircleImageView]（https://github.com/hdodenhof/CircleImageView）<br/>
-经典的圆形头像
-
-* [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)<br/>
-经典的头像加载框架
-
-* [xiaopansky/sketch](https://github.com/xiaopansky/sketch)<br/>
-Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势缩放以及分块显示超大图片。
-
-* [koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable)<br/>
-在安卓上显示gif图片。Views and Drawable for displaying animated GIFs on Android
-
-* [lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)<br/>
-仿微信实现多图选择。支持单选和多选两种模式
-
-* [donglua/PhotoPicker](https://github.com/donglua/PhotoPicker)<br/>
-同样是仿微信图片选择
-
-* [martin90s/ImagePicker](https://github.com/martin90s/ImagePicker)<br/>
-可选择超大图片
-
-
+* [xsingHu/JustifyTextView](https://github.com/xsingHu/JustifyTextView)<br/>
+两端分散对齐的TextView,支持中英文混编
 
 
 ## 功能相关 ##
