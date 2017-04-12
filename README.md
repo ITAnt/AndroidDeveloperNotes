@@ -151,6 +151,8 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 * [xsingHu/JustifyTextView](https://github.com/xsingHu/JustifyTextView)<br/>
 两端分散对齐的TextView,支持中英文混编
 
+* [tianzhijiexian/CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter)<br/>
+通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter
 
 ## 功能相关 ##
 
@@ -315,6 +317,12 @@ JSON在线解析
 
 * [POSTMAN](https://www.getpostman.com/)<br/>
 强大的接口调试工具
+
+* [Genymotion](http://www.genymotion.net/)<br/>
+安卓模拟器
+
+* [旧版本Virtualbox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3)<br/>
+旧版本Virtualbox下载
 
 * [Gradle Distributions](http://services.gradle.org/distributions/)<br/>
 Gradle各个发布版本，直接下载，然后到C盘User目录里的.gradle目录里替换掉，AndroidStudio就不会卡死了。
