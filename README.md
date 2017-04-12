@@ -188,6 +188,9 @@ Rx实现的权限申请(推荐使用)This library allows the usage of RxJava wit
 * [koush/AndroidAsync](https://github.com/koush/AndroidAsync)<br/>
 安卓异步网络请求。Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
 
+* [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)<br/>
+谷歌官方MVP
+
 ### 网络请求 ###
 
 * [square/retrofit](https://github.com/square/retrofit)<br/>
@@ -279,12 +282,42 @@ Android Framework层源码解析
 * [X浏览器](http://www.xbext.com/)
 
 ### 开发工具 ###
+
 * [Bintray](https://bintray.com/)<br/>
 发布你的开源库
+
 * [JitPack](https://jitpack.io/)<br/>
 国内看来，JitPack比Bintray快许多。Easy to use package repository for Git.Publish your JVM and Android libraries.
+
 * [SQLiteStudio](https://sqlitestudio.pl/index.rvt)<br/>
 查看SQLite数据库文件
+
+* [sourcetree](https://www.sourcetreeapp.com/)<br/>
+Git窗口客户端
+
+* [tortoiseSVN](https://tortoisesvn.net/)
+SVN窗口客户端
+
+* [beyond compare](http://www.scootersoftware.com/download.php)<br/>
+强大的对比工具
+
+* [notepad++](https://notepad-plus-plus.org/)
+很好用的文本编辑工具
+
+* [JIRA](https://www.atlassian.com/software/jira)<br/>
+Bug管理工具
+
+* [Swagger UI](http://swagger.io/swagger-ui/)<br/>
+API发布框架
+
+* [JSON Editor](https://www.jsoneditoronline.org/)<br/>
+JSON在线解析
+
+* [POSTMAN](https://www.getpostman.com/)<br/>
+强大的接口调试工具
+
+* [Gradle Distributions](http://services.gradle.org/distributions/)<br/>
+Gradle各个发布版本，直接下载，然后到C盘User目录里的.gradle目录里替换掉，AndroidStudio就不会卡死了。
 
 ### 其他 ###
 * [下载GooglePlay应用的方法](https://www.zhihu.com/question/22382577)
