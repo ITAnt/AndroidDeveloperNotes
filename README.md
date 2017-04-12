@@ -1,7 +1,11 @@
 # AndroidDeveloperNotes
 安卓开发者笔记
-
 收录了一些实用而美观的开发框架，优秀的博文，好用的开发工具等。
+
+## 应用层UI和控件 ##
+
+* [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)<br/>
+Bootstrap的安卓版本
 
 ### 对话框 ###
 
@@ -27,6 +31,12 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 1. [LuckyJayce/ViewPagerIndicator](https://github.com/LuckyJayce/ViewPagerIndicator)<br/>
 Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab，引导页，无限轮播banner等效果，高度自定义tab和特效
 
+2. [daimajia/AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)<br/>
+多种动画效果的banner图
+
+3. [roughike/BottomBar](https://github.com/roughike/BottomBar)<br/>
+Material风格的底部导航
+
 ### 进度条 ###
 1. [daimajia/NumberProgressBar](https://github.com/daimajia/NumberProgressBar)<br/>
 The NumberProgressBar is a bar, slim and sexy (every man wants! ).
@@ -44,16 +54,24 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 下拉刷新项目的替代方案（已停止更新），继承于ViewGroup可以包含任何View。
 
 2. [Frank-Zhu/PullZoomView](https://github.com/Frank-Zhu/PullZoomView)<br/>
-An Android custom ListView and ScrollView with pull to zoom-in.
+下拉头部放大。An Android custom ListView and ScrollView with pull to zoom-in.
+
+3. [bingoogolapple/BGARefreshLayout-Android](https://github.com/bingoogolapple/BGARefreshLayout-Android)<br/>
+多种下拉刷新效果、上拉加载更多、可配置自定义头部广告位
+
+4. [WuXiaolong/PullLoadMoreRecyclerView](https://github.com/WuXiaolong/PullLoadMoreRecyclerView)<br/>
+实现RecyclerView下拉刷新和上拉加载更多以及RecyclerView线性、网格、瀑布流效果演示
 
 ### 动画效果 ###
 
 1. [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
 强大的动画效果库，几乎包含所有动画效果。
 
+### 自定义 ###
+1. [HelloVass/SnowingView](https://github.com/HelloVass/SnowingView)<br/>
+雪花飘落
 
-
-### 图片选择 ###
+### 图片相关 ###
 
 1. [lovetuzitong/MultiImageSelector](https://github.com/lovetuzitong/MultiImageSelector)<br/>
 仿微信实现多图选择。支持单选和多选两种模式
@@ -63,6 +81,13 @@ An Android custom ListView and ScrollView with pull to zoom-in.
 
 3. [martin90s/ImagePicker](https://github.com/martin90s/ImagePicker)<br/>
 可选择超大图片
+
+4. [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
+圆形头像A fast ImageView that supports rounded corners, ovals, and circles.
+
+5. [hdodenhof/CircleImageView]（https://github.com/hdodenhof/CircleImageView）<br/>
+经典的圆形头像
+
 
 ### 网络请求 ###
 
