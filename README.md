@@ -2,7 +2,7 @@
 安卓开发者笔记
 收录了一些实用而美观的开发框架，优秀的博文，好用的开发工具等。
 
-## 应用层UI和控件 ##
+## UI和控件 ##
 
 * [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)<br/>
 Bootstrap的安卓版本
@@ -44,6 +44,9 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 2. [AnderWeb/discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar)<br/>
 漂亮的SeekBar
 
+3. [dinuscxj/CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar?utm_source=tuicool&utm_medium=referral)<br/>
+圆形进度条
+
 ### 按钮相关 ###
 1. [Leaking/SlideSwitch](https://github.com/Leaking/SlideSwitch)<br/>
 仿ios风格开关。A widget you can slide it to open or close something
@@ -62,9 +65,12 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 4. [WuXiaolong/PullLoadMoreRecyclerView](https://github.com/WuXiaolong/PullLoadMoreRecyclerView)<br/>
 实现RecyclerView下拉刷新和上拉加载更多以及RecyclerView线性、网格、瀑布流效果演示
 
+5. [jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView)<br/>
+上拉加载，下拉刷新的RecyclerView。A RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView
+
 ### 动画效果 ###
 
-1. [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+1. [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)<br/>
 强大的动画效果库，几乎包含所有动画效果。
 
 ### 自定义 ###
@@ -88,6 +94,30 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 5. [hdodenhof/CircleImageView]（https://github.com/hdodenhof/CircleImageView）<br/>
 经典的圆形头像
 
+
+
+## 功能相关 ##
+
+### 条形码 ###
+1. [zxing/zxing](https://github.com/zxing/zxing)<br/>
+zxing官方项目。Official ZXing ("Zebra Crossing") project home
+
+2. [dm77/barcodescanner](https://github.com/dm77/barcodescanner)<br/>
+基于zxing的扫描器
+
+3. [journeyapps/zxing-android-embedded](https://github.com/journeyapps/zxing-android-embedded)<br/>
+基于zxing的扫描器，快速集成。Barcode scanning library for Android, using ZXing for decoding.
+
+### 权限申请 ###
+1. [tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)<br/>
+Rx实现的权限申请(推荐使用)This library allows the usage of RxJava with the new Android M permission model.
+
+2. [anthonycr/Grant](https://github.com/anthonycr/Grant)
+权限申请
+
+## 框架级别 ##
+* [koush/AndroidAsync](https://github.com/koush/AndroidAsync)<br/>
+安卓异步网络请求。Asynchronous socket, http (client+server), websocket, and socket.io library for android. Based on nio, not threads.
 
 ### 网络请求 ###
 
