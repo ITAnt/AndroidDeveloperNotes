@@ -110,7 +110,7 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 * [jianghejie/XRecyclerView](https://github.com/jianghejie/XRecyclerView)<br/>
 上拉加载，下拉刷新的RecyclerView。A RecyclerView that implements pullrefresh and loadingmore featrues.you can use it like a standard RecyclerView
 
-* [liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+* [liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)<br/>
 拉动刷新，支持所有的View。Ultra Pull to Refresh for Android. Support all the views. 
 
 ### 图表 ###
