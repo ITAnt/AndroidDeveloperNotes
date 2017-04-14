@@ -76,6 +76,14 @@ Indicator 取代 tabhost，实现网易顶部tab，新浪微博主页底部tab�
 Material风格的底部导航
 
 * [astuetz/PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)<br/>
+Tab颜色随切换改变
+
+* [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)<br/>
+动感切换的Tab，黏性效果
+
+* [Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android)<br/>
+动态弹出的菜单，Yalantis出品，效果惊艳
+
 导航tab
 
 ### 进度条 ###
@@ -113,6 +121,9 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 * [liaohuqiu/android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)<br/>
 拉动刷新，支持所有的View。Ultra Pull to Refresh for Android. Support all the views. 
 
+* [android-cjj/Android-MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)<br/>
+包含Material Design效果的下拉刷新，也有原始风格的
+
 ### 图表 ###
 * [lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)<br/>
 很漂亮的图表，线状柱状等包含几乎所有类型图表。Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
@@ -139,11 +150,29 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 ### 动画效果 ###
 
+* [wasabeef/recyclerview-animators](https://github.com/wasabeef/recyclerview-animators)<br/>
+列表滚动动画
+
 * [daimajia/AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)<br/>
 强大的动画效果库，几乎包含所有动画效果。
 
+* [JakeWharton/NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)<br/>
+经典动画库
+
 
 ### 自定义 ###
+
+* [chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)<br/>
+更改字体
+
+* [norbsoft/android-typeface-helper](https://github.com/norbsoft/android-typeface-helper)<br/>
+更改字体2
+
+* [liuguangqiang/SwipeBack](https://github.com/liuguangqiang/SwipeBack)<br/>
+向右滑动销毁Activity
+
+* [sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)<br/>
+向右滑动销毁Activity2
 
 * [Rukey7/TagLayout](https://github.com/Rukey7/TagLayout)<br/>
 热搜标签
@@ -169,6 +198,7 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 
 ### 条形码 ###
+
 * [zxing/zxing](https://github.com/zxing/zxing)<br/>
 zxing官方项目。Official ZXing ("Zebra Crossing") project home
 
@@ -184,6 +214,9 @@ Rx实现的权限申请(推荐使用)This library allows the usage of RxJava wit
 
 * [anthonycr/Grant](https://github.com/anthonycr/Grant)<br/>
 权限申请
+
+* [hotchemi/PermissionsDispatcher](https://github.com/hotchemi/PermissionsDispatcher)<br/>
+以注解的形式实现权限申请
 
 ## 框架级别 ##
 
