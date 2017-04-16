@@ -309,6 +309,51 @@ Material Design在低版本手机上的实现
 * [yipianfengye/androidSource](https://github.com/yipianfengye/androidSource)<br/>
 Android Framework层源码解析
 
+### 推荐网站 ###
+
+* [Android Developer](https://developer.android.com/index.html)
+* [Android Developers Blog](https://android-developers.googleblog.com/)
+* [Stack Overflow](http://stackoverflow.com/)
+* [Github](https://www.github.com)
+* [安卓开发工具](http://www.androiddevtools.cn/index.html)<br/>
+
+选择性浏览<br/>
+* [慕课网](http://www.imooc.com/)
+* [LeetCode](https://leetcode.com/)
+* [ITeye](http://www.iteye.com/)
+* [CSDN](http://blog.csdn.net/)
+* [博客园](https://www.cnblogs.com/)
+* [简书](http://www.jianshu.com/)
+* [掘金](https://juejin.im/)
+* [推酷](http://www.tuicool.com/a/)
+* [开源中国社区](http://www.oschina.net/)
+* [SegmentFault](https://segmentfault.com/)
+* [APKBUS](http://www.apkbus.com/)
+* [Cocoa China](http://www.cocoachina.com/)
+* [IT蓝豹](http://www.itlanbao.com/)
+* [红黑联盟](http://www.2cto.com/kf/yidong/Android/)
+* [23code](http://www.23code.com/)
+* [API之家]（http://www.apihome.cn/）
+* [JavaApk](http://www.javaapk.com/)
+* [eoeandroid](http://www.eoeandroid.com/forum.php)
+* [codekk](http://p.codekk.com/)
+* [干货集中营](http://gank.io/)
+* [Android China](http://www.androidchina.net/)
+* [胡凯(荐初学者)](http://hukai.me/)
+* [泡在网上的日子](http://www.jcodecraeer.com/)
+* [android-doc](http://www.android-doc.com/index.html)
+* [布布扣]（http://www.bubuko.com/infolist-6-1.html）
+
+* [learn2crack](https://www.learn2crack.com/)
+* [Javacodegeeks(荐)](https://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/)
+* [androidhive(荐)](http://www.androidhive.info/)
+* [Android Tutorial(基础课程)](http://www.tutorialspoint.com/android/)
+* [Vogella(基础课程)](http://www.vogella.com/tutorials/android.html)
+
+### 开源集合 ###
+* [Trinea](https://github.com/Trinea/android-open-project)
+* [ddwhan](https://github.com/ddwhan0123/Useful-Open-Source-Android)
+
 ## 科学上网 ##
 下面这些工具可以方便我们获取英文知识
 ### PC ###
@@ -323,13 +368,20 @@ Android Framework层源码解析
 * [蓝灯](https://github.com/getlantern/lantern)
 * [X浏览器](http://www.xbext.com/)
 
-### 开发工具 ###
+### 仓库 ###
 
 * [Bintray](https://bintray.com/)<br/>
 发布你的开源库
 
 * [JitPack](https://jitpack.io/)<br/>
 国内看来，JitPack比Bintray快许多。Easy to use package repository for Git.Publish your JVM and Android libraries.
+
+* [MVN Repository](http://mvnrepository.com/)
+* [Central Repository](http://search.maven.org/)
+* [DocJar](http://www.docjar.com/)
+
+
+### 开发工具 ##
 
 * [SQLiteStudio](https://sqlitestudio.pl/index.rvt)<br/>
 查看SQLite数据库文件
