@@ -333,7 +333,7 @@ Android Framework层源码解析
 * [IT蓝豹](http://www.itlanbao.com/)
 * [红黑联盟](http://www.2cto.com/kf/yidong/Android/)
 * [23code](http://www.23code.com/)
-* [API之家]（http://www.apihome.cn/）
+* [API之家](http://www.apihome.cn/)
 * [JavaApk](http://www.javaapk.com/)
 * [eoeandroid](http://www.eoeandroid.com/forum.php)
 * [codekk](http://p.codekk.com/)
@@ -349,6 +349,10 @@ Android Framework层源码解析
 * [androidhive(荐)](http://www.androidhive.info/)
 * [Android Tutorial(基础课程)](http://www.tutorialspoint.com/android/)
 * [Vogella(基础课程)](http://www.vogella.com/tutorials/android.html)
+
+### 推荐书本 ###
+* 安卓群英传
+* 安卓开发艺术探索
 
 ### 开源集合 ###
 * [Trinea](https://github.com/Trinea/android-open-project)
