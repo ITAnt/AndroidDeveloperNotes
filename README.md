@@ -348,7 +348,7 @@ Android Framework层源码解析
 * [胡凯(荐初学者)](http://hukai.me/)
 * [泡在网上的日子](http://www.jcodecraeer.com/)
 * [android-doc](http://www.android-doc.com/index.html)
-* [布布扣]（http://www.bubuko.com/infolist-6-1.html）
+* [布布扣](http://www.bubuko.com/infolist-6-1.html)
 
 * [learn2crack](https://www.learn2crack.com/)
 * [Javacodegeeks(荐)](https://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/)
