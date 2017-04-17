@@ -9,11 +9,17 @@ Bootstrap的安卓版本
 
 ### 对话框|等待控件 ###
 
+* [afollestad/material-dialogs ](https://github.com/afollestad/material-dialogs)
+Material风格的对话框
+
 * [81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)<br/>
 漂亮的加载等待控件AVLoadingIndicatorView is a collection of nice loading animations for Android.
 
 * [pedant/sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)<br/>
 Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
+
+* [javiersantos/MaterialStyledDialogs](https://github.com/javiersantos/MaterialStyledDialogs)
+Material风格上增加了自己风格的对话框
 
 ### 列表相关 ###
 
