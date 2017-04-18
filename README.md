@@ -38,6 +38,9 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 * [nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)<br/>
 列表动画
 
+* [etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)<br/>
+瀑布流图片
+
 ### 图片相关 ###
 
 * [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
