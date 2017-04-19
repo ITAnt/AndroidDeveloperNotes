@@ -32,14 +32,8 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 * [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)<br/>
 带侧滑菜单的ListView。[demo地址](https://github.com/maurycyw/StaggeredGridViewDemo)
 
-* [maurycyw/StaggeredGridView](https://github.com/maurycyw/StaggeredGridView)<br/>
-瀑布流布局，可用于图片浏览。
-
 * [nhaarman/ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)<br/>
 列表动画
-
-* [etsy/AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid)<br/>
-瀑布流图片
 
 ### 图片相关 ###
 
