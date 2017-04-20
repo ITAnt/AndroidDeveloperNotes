@@ -429,6 +429,9 @@ JSON在线解析
 * [Gradle Distributions](http://services.gradle.org/distributions/)<br/>
 Gradle各个发布版本，直接下载，然后到C盘User目录里的.gradle目录里替换掉，AndroidStudio就不会卡死了。
 
+* [fir.im](https://fir.im/)<br/>
+免费应用内测托管平台
+
 ### 其他 ###
 * [下载GooglePlay应用的方法](https://www.zhihu.com/question/22382577)
 * [Google镜像1](https://g.zmirrordemo.com/)
