@@ -177,8 +177,14 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 * [sockeqwe/SwipeBack](https://github.com/sockeqwe/SwipeBack)<br/>
 向右滑动销毁Activity2
 
+* [pchmn/MaterialChipsInput](https://github.com/pchmn/MaterialChipsInput)<br/>
+漂亮的编辑标签
+
 * [Rukey7/TagLayout](https://github.com/Rukey7/TagLayout)<br/>
 热搜标签
+
+* [Ramotion/expanding-collection-android](https://github.com/Ramotion/expanding-collection-android)<br/>
+可展开的容器
 
 * [traex/ExpandableLayout](https://github.com/traex/ExpandableLayout)<br/>
 点击即可展开的Layout
