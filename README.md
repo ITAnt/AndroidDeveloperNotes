@@ -312,6 +312,10 @@ Material Design在低版本手机上的实现
 * [yipianfengye/androidSource](https://github.com/yipianfengye/androidSource)<br/>
 Android Framework层源码解析
 
+## 性能提高 ##
+* [LeakCanary](https://github.com/square/leakcanary)<br/>
+内存泄露检测
+
 ### 推荐网站 ###
 
 * [Android Developer](https://developer.android.com/index.html)
