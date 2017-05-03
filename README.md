@@ -428,7 +428,8 @@ JSON在线解析
 强大的接口调试工具
 
 * [Genymotion](http://www.genymotion.net/)<br/>
-安卓模拟器
+安卓模拟器<br/>
+无法下载[点击这里](http://dl.pconline.com.cn/download/354967-1.html)
 
 * [旧版本Virtualbox](https://www.virtualbox.org/wiki/Download_Old_Builds_4_3)<br/>
 旧版本Virtualbox下载
@@ -442,9 +443,19 @@ Gradle各个发布版本，直接下载，然后到C盘User目录里的.gradle�
 * [fir.im](https://fir.im/)<br/>
 免费应用内测托管平台
 
+### 开放API ###
+* [lastfm音乐](https://www.last.fm/api)
+
 ### 其他 ###
-* [下载GooglePlay应用的方法](https://www.zhihu.com/question/22382577)
+* 下载GooglePlay应用的方法<br/>
+[apkpure](https://apkpure.com/)<br/>
+[APK Downloader](https://apps.evozi.com/apk-downloader/)<br/>
+[APKMirror](http://www.apkmirror.com/)<br/>
+[ApkLeecher](http://apkleecher.com/)<br/>
+[androidapk](https://androidappsapk.co/apkdownloader/)<br/>
+
 * [Google镜像1](https://g.zmirrordemo.com/)
+* [胖次](http://www.panc.cc/)
 
 
 
