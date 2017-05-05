@@ -443,8 +443,18 @@ Gradle各个发布版本，直接下载，然后到C盘User目录里的.gradle�
 * [fir.im](https://fir.im/)<br/>
 免费应用内测托管平台
 
+### 应用开放者 ###
+* [百度开发者](http://app.baidu.com/jiagu/)<br/>
+* [腾讯开发者](http://open.qq.com/login)<br/>
+* [360开发者](http://dev.360.cn/mod3/mobilenavs/index)<br/>
+* [谷歌开发者](https://play.google.com/apps/publish/)<br/>
+* [酷安开发者](https://developer.coolapk.com/)<br/>
+
 ### 开放API ###
-* [lastfm音乐](https://www.last.fm/api)
+* [lastfm音乐](https://www.last.fm/api)<br/>
+* [畅言-社会化评论-去除垃圾评论和广告](http://changyan.kuaizhan.com/)<br/>
+* [开放的API](http://free.juhe.cn/)<br/>
+* [即用API](http://apistore.baidu.com/apiworks/readyapiprefecture.html)<br/>
 
 ### 其他 ###
 * 下载GooglePlay应用的方法<br/>
