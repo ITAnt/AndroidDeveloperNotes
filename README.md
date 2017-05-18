@@ -402,6 +402,9 @@ Android Framework层源码解析
 
 ### 开发工具 ##
 
+* [ZhaoKaiQiang/KLog](https://github.com/ZhaoKaiQiang/KLog)<br/>
+这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、XML解析、点击跳转、Log信息保存等功能
+
 * [SQLiteStudio](https://sqlitestudio.pl/index.rvt)<br/>
 查看SQLite数据库文件
 
