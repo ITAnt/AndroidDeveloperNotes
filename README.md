@@ -244,13 +244,21 @@ Rx实现的权限申请(推荐使用)This library allows the usage of RxJava wit
 * [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture/tree/todo-mvp/)<br/>
 谷歌官方MVP
 
-### 网络请求 ###
+### 网络相关 ###
 
 * [square/retrofit](https://github.com/square/retrofit)<br/>
 Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
 
 * [square/okhttp](https://github.com/square/okhttp)<br/>
 An HTTP+HTTP/2 client for Android and Java applications. http://square.github.io/okhttp/
+
+* [loopj/android-async-http](https://github.com/loopj/android-async-http)<br/>
+异步网络请求框架<br/>
+An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries.
+
+* [ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)<br/>
+基于RxJava的多线程下载工具<br/>
+Multi-thread download tool based on RxJava.
 
 ### 数据库 ###
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)<br/>
