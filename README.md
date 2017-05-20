@@ -198,6 +198,9 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 * [tianzhijiexian/CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter)<br/>
 通过封装BaseAdapter和RecyclerView.Adapter得到的通用的，简易的Adapter
 
+* [CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)<br/>
+可以非常方便地为RecyclerView增加Header、Footer、EmptyView
+
 ## 功能相关 ##
 
 ### 相机相关 ###
@@ -249,6 +252,14 @@ Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.
 * [square/okhttp](https://github.com/square/okhttp)<br/>
 An HTTP+HTTP/2 client for Android and Java applications. http://square.github.io/okhttp/
 
+### 数据库 ###
+* [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)<br/>
+基于ORM的数据库工具，非常方便
+
+### 综合工具 ###
+* [https://github.com/wyouflf/xUtils3](https://github.com/wyouflf/xUtils3)<br/>
+包含了orm, http(s), image, view注解, 但依然很轻量级(246K), 并且特性强大, 方便扩展
+
 
 ## Material相关 ##
 
@@ -298,7 +309,6 @@ Material Design implementation for Android 4.0+. Shadows, ripples, vectors, font
 Material Design在低版本手机上的实现
 
 ## 系统学习 ##
-
 * [Android](https://github.com/android)
 * [AndroidXRef](http://androidxref.com/)
 
