@@ -262,7 +262,9 @@ Multi-thread download tool based on RxJava.
 
 ### 数据库 ###
 * [greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)<br/>
-基于ORM的数据库工具，非常方便
+基于ORM的数据库工具，非常方便。参考：<br/>
+http://www.jianshu.com/p/4986100eff90<br/>
+https://www.daidingkang.cc/2016/12/08/GreenDao/
 
 ### 综合工具 ###
 * [https://github.com/wyouflf/xUtils3](https://github.com/wyouflf/xUtils3)<br/>
