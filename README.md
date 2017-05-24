@@ -87,7 +87,8 @@ Tab颜色随切换改变
 * [Yalantis/Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android)<br/>
 动态弹出的菜单，Yalantis出品，效果惊艳
 
-导航tab
+* [astuetz/PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)<br/>
+跟随tab切换而更换背景颜色的导航栏
 
 ### 进度条 ###
 
@@ -164,6 +165,10 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 
 ### 自定义 ###
+
+* [ta893115871/StickyNavLayout](https://github.com/ta893115871/StickyNavLayout)<br/>
+StickyNavLayout 悬浮控件
+
 
 * [chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)<br/>
 更改字体
