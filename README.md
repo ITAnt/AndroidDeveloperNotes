@@ -166,9 +166,15 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 ### 自定义 ###
 
+* [Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)<br/>
+Android's TextView that can expand/collapse like the Google Play's app description<br/>
+可折叠的TextView
+
 * [ta893115871/StickyNavLayout](https://github.com/ta893115871/StickyNavLayout)<br/>
 StickyNavLayout 悬浮控件
 
+* [hongyangAndroid/Android-StickyNavLayout](https://github.com/hongyangAndroid/Android-StickyNavLayout)<br/>
+悬停控件
 
 * [chrisjenx/Calligraphy](https://github.com/chrisjenx/Calligraphy)<br/>
 更改字体
@@ -426,6 +432,11 @@ Android Framework层源码解析
 
 
 ### 开发工具 ##
+* [LeanCloud](https://leancloud.cn/)<br/>
+领先的 BaaS 提供商，为移动开发提供强有力的后端支持
+
+* [Bmob](http://www.bmob.cn/)<br/>
+全方位一体化的后端服务平台
 
 * [ZhaoKaiQiang/KLog](https://github.com/ZhaoKaiQiang/KLog)<br/>
 这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、XML解析、点击跳转、Log信息保存等功能
