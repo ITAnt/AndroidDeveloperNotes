@@ -63,6 +63,9 @@ Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势�
 
 ### 界面导航 ###
 
+* [H07000223/FlycoTabLayout](https://github.com/H07000223/FlycoTabLayout)<br/>
+导航Tab，并且底部的线可以自定义长度
+
 * [youth5201314/banner](https://github.com/youth5201314/banner)<br/>
 Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
 
@@ -134,6 +137,14 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 
 ### 视频播放 ###
 
+* [pili-engineering/PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)<br/>
+PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。
+
+* [悬浮播放]
+[悬浮一](https://github.com/lipangit/JieCaoVideoPlayer)<br/>
+[悬浮二](https://github.com/JasonChow1989/JieCaoVideoPlayer-develop)<br/>
+[悬浮三](https://github.com/open-android/JieCaoVideoPlayer)
+
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)<br/>
 B站开源视频播放器
 
@@ -146,6 +157,8 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 * [百度云音视频](https://cloud.baidu.com/doc/MCT/API.html#.15.7A.9A.C8.BB.93.26.74.19.77.3F.0F.BD.F5.81.EE)<br/>
 由百度提供SDK
+
+* [视频直播相关](http://www.jianshu.com/p/b61cd0bc2abe)
 
 * 缩略图获取
 [参考链接一](http://www.2cto.com/kf/201210/161238.html)<br/>
@@ -403,6 +416,7 @@ Android Framework层源码解析
 ### 开源集合 ###
 * [Trinea](https://github.com/Trinea/android-open-project)
 * [ddwhan](https://github.com/ddwhan0123/Useful-Open-Source-Android)
+* [开发集合1](http://www.open-open.com/lib/view/open1442664464415.html)
 
 ## 科学上网 ##
 下面这些工具可以方便我们获取英文知识
