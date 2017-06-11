@@ -137,6 +137,8 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 
 ### 视频播放 ###
 
+* [Youtube播放器](https://github.com/youtube/api-samples)
+
 * [pili-engineering/PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)<br/>
 PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。
 
