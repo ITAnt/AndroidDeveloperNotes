@@ -160,6 +160,8 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 * [视频直播相关](http://www.jianshu.com/p/b61cd0bc2abe)
 
+* [容易集成的播放器](https://github.com/SinaVDDeveloper/demo)
+
 * 缩略图获取
 [参考链接一](http://www.2cto.com/kf/201210/161238.html)<br/>
 [参考链接二](http://www.jb51.net/article/38376.htm)<br/>
