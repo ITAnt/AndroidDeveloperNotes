@@ -183,6 +183,12 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 ### 自定义 ###
 
+* [sharish/ScratchView](https://github.com/sharish/ScratchView)<br/>
+类似刮刮乐开奖
+
+* [ChadCSong/ShineButton](https://github.com/ChadCSong/ShineButton)<br/>
+炫酷的点赞
+
 * [Manabu-GT/ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView)<br/>
 Android's TextView that can expand/collapse like the Google Play's app description<br/>
 可折叠的TextView
@@ -295,6 +301,9 @@ http://www.jianshu.com/p/4986100eff90<br/>
 https://www.daidingkang.cc/2016/12/08/GreenDao/
 
 ### 综合工具 ###
+
+* [图片压缩](https://github.com/zetbaitsu/Compressor)
+
 * [https://github.com/wyouflf/xUtils3](https://github.com/wyouflf/xUtils3)<br/>
 包含了orm, http(s), image, view注解, 但依然很轻量级(246K), 并且特性强大, 方便扩展
 
