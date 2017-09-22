@@ -142,10 +142,13 @@ The NumberProgressBar is a bar, slim and sexy (every man wants! ).
 * [pili-engineering/PLDroidPlayer](https://github.com/pili-engineering/PLDroidPlayer)<br/>
 PLDroidPlayer 是 Pili 直播 SDK 的安卓播放器。支持所有直播常用的格式，如：RTMP、HLS、FLV。拥有优秀的功能和特性，如：首屏秒开、追帧优化、丰富的数据和状态回调、硬解软解支持。而且可以根据自己的业务进行高度定制化开发。
 
-* [悬浮播放]
+* [悬浮播放]<br/>
 [悬浮一](https://github.com/lipangit/JieCaoVideoPlayer)<br/>
 [悬浮二](https://github.com/JasonChow1989/JieCaoVideoPlayer-develop)<br/>
 [悬浮三](https://github.com/open-android/JieCaoVideoPlayer)
+
+* [open-android/JieCaoVideoPlayer](https://github.com/open-android/JieCaoVideoPlayer)<br/>
+高仿今日头条视频播放
 
 * [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)<br/>
 B站开源视频播放器
