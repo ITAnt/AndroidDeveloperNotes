@@ -7,6 +7,10 @@
 * [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)<br/>
 Bootstrap的安卓版本
 
+* [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)<br/>
+开关控件
+
+
 ### 对话框|等待控件 ###
 
 * [afollestad/material-dialogs ](https://github.com/afollestad/material-dialogs)
