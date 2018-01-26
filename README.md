@@ -7,7 +7,7 @@
 * [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)<br/>
 Bootstrap的安卓版本
 
-* [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton)<br/>
+* [zcweng/SwitchButton](https://github.com/zcweng/SwitchButton)<br/>
 开关控件
 
 
