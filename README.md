@@ -44,7 +44,7 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 * [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
 圆形头像A fast ImageView that supports rounded corners, ovals, and circles.
 
-* [hdodenhof/CircleImageView]（https://github.com/hdodenhof/CircleImageView)<br/>
+* [hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)<br/>
 经典的圆形头像
 
 * [nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)<br/>
