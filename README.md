@@ -41,6 +41,8 @@ RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，
 
 ### 图片相关 ###
 
+* [SVG编辑工具](https://www.oschina.net/translate/20-useful-svg-tools-for-better-graphics)<br/>
+
 * [vinc3m1/RoundedImageView](https://github.com/vinc3m1/RoundedImageView)<br/>
 圆形头像A fast ImageView that supports rounded corners, ovals, and circles.
 
@@ -72,6 +74,9 @@ Sketch是Android上一个强大且全面的图片加载器，支持GIF，手势�
 
 * [youth5201314/banner](https://github.com/youth5201314/banner)<br/>
 Android广告图片轮播控件，支持无限循环和多种主题，可以灵活设置轮播样式、动画、轮播和切换时间、位置、图片加载框架等！
+
+* [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android)<br/>
+引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果。非常炫酷。
 
 * [saiwu-bigkoo/Android-ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)<br/>
 简单方便的banner导航，有多种特效。Simple and convenient banner, loop viewpager with 3D effects
@@ -189,6 +194,20 @@ Vitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架，全�
 
 
 ### 自定义 ###
+* [umano/AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel)<br/>
+类似谷歌音乐可以拖动全屏的布局
+
+* [H07000223/FlycoDialog_Master](https://github.com/H07000223/FlycoDialog_Master)<br/>
+非常漂亮的对话框
+
+* [garretyoder/Colorful](https://github.com/garretyoder/Colorful)<br/>
+主题颜色更改
+
+* [scola/Qart](https://github.com/scola/Qart)<br/>
+有背景图片的二维码
+
+* [Daltron/NotificationBanner](https://github.com/Daltron/NotificationBanner)<br/>
+漂亮的Notification
 
 * [sharish/ScratchView](https://github.com/sharish/ScratchView)<br/>
 类似刮刮乐开奖
@@ -398,6 +417,7 @@ Android Framework层源码解析
 * [Stack Overflow](http://stackoverflow.com/)
 * [Github](https://www.github.com)
 * [安卓开发工具](http://www.androiddevtools.cn/index.html)<br/>
+* [码云](https://gitee.com/)<br/>
 
 选择性浏览<br/>
 * [慕课网](http://www.imooc.com/)
